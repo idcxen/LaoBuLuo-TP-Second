@@ -6,7 +6,7 @@
 
 ![输入图片描述](https://gitee.com/laobuluo/LaoBuLuo-TP-Second/raw/master/laobuluo-tp-second-1.jpg)
 
-[老部落](https://www.laobuluo.com)官方网站：https://www.laobuluo.com
+官方网站：https://www.laobuluo.com
 
 主题详情： https://www.laobuluo.com/4204.html
 
@@ -34,9 +34,6 @@
 
 如果有问题可以关注公众号，提交需要解决的问题，包括有哪些主题方面的需求。
 
-**我们建站的时候还可以选择这些优秀的主机和云服务器**
+![扫码关注老蒋部落](https://gitee.com/laobuluo/LaoBuLuo-TP-Second/raw/master/siderbar-wechat.jpg)
 
-1. [独立IP虚拟主机](https://www.laobuluo.com/11068.html)：https://www.laobuluo.com/11068.html
-2. [欧洲外贸VPS](https://www.laobuluo.com/7921.html)：https://www.laobuluo.com/7921.html
-3. [美国年付VPS](https://www.laobuluo.com/11637.html)：https://www.laobuluo.com/11637.html
 
